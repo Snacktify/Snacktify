@@ -18,9 +18,9 @@ Snacktify is ...
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github]() |
-|  Machine Learning  |  [Github]()  |
-|   Cloud Computing  |   [Github]()  |
+| Mobile Development | [Github](https://github.com/Snacktify/capstone-md) |
+|  Machine Learning  |  [Github](https://github.com/Snacktify/capstone-ml)  |
+|   Cloud Computing  |   [Github](https://github.com/Snacktify/capstone-api)  |
 
 <p align="right"> C23-PR522 Teams </p>
 
