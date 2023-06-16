@@ -1,6 +1,15 @@
 ### Snacktify Capstone Project
 The documentation of Snacktify in Bangkit Capstone Project 2023
 
+# Repositories
+
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/Snacktify/capstone-md) |
+|  Machine Learning  |  [Github](https://github.com/Snacktify/capstone-ml)  |
+|   Cloud Computing  |   [Github](https://github.com/Snacktify/capstone-api)  |
+| Website Development| [Github](https://github.com/Snacktify/capstone-website) |
+
 # About
 Snacktify is an app that utilizes Machine Learning technology to help people identify recipes and nutritional content of food by simply using their smartphone camera. 
 
@@ -16,15 +25,6 @@ Indonesia is one of the countries with the most diverse types of food or cuisine
 | Rayhan Naufal L | C017DSX0862 | Cloud Computing | Project Manager, DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/rayhannaufall/) or [Github](https://github.com/rayhannaufall10) |
 | Akmal Munggaran | C017DSX0916 | Cloud Computing | DevOps Engineer, UI/UX Designer, Website Developer | [LinkedIn](https://www.linkedin.com/in/akmalmunggaran/) or [Github](https://github.com/akMALE21) |
 | M. Fadhil Alhafizh | A172DSX2451 | Mobile Development | Android Mobile Developer |  |
-
-# Repositories
-
-|   Learning Paths   |                                Link                                |
-| :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/Snacktify/capstone-md) |
-|  Machine Learning  |  [Github](https://github.com/Snacktify/capstone-ml)  |
-|   Cloud Computing  |   [Github](https://github.com/Snacktify/capstone-api)  |
-| Website Development| [Github](https://github.com/Snacktify/capstone-website) |
 
 # Machine Learning Team
 
@@ -57,7 +57,7 @@ Has several responsibility such as:
   1. Code Platform: Jupyter Notebook and Google Collaboration
   2. dataset: Kaggle.com
   3. Programming Language: Python
-  4. Library: 
+  4. Library: Tensorflow, matplotlib.pyplot, pandas, numpy
   
 ## Cloud Computing
   1. Cloud environment: Google Cloud Platform (App Engine, Cloud Storage, VPC Network, Cloud SQL)
