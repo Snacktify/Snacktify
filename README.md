@@ -1,6 +1,8 @@
 ### Snacktify Capstone Project
 The documentation of Snacktify in Bangkit Capstone Project 2023
 
+![Snacktify](https://storage.googleapis.com/snackvidia_image/Prototype)
+
 # Repositories
 
 |   Learning Paths   |                                Link                                |
@@ -19,9 +21,9 @@ Indonesia is one of the countries with the most diverse types of food or cuisine
 # Team Member
 | Member | Student ID | Path | Role | Contacts |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Bimantara Tito W | M038DSX1819 | Machine Learning | Machine Learning Engineer | [LinkedIn]() or [Github]() |
-| Indriana Puspita A | M172DSY2342 | Machine Learning | Machine Learning Engineer | [LinkedIn]() or [Github]() |
-| Ana Surya N | M075DSY3583 | Machine Learning | Machine Learning Engineer | [LinkedIn]() or [Github]() |
+| Bimantara Tito W | M038DSX1819 | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/bimantara-tito-wahyudi-b051a2205/) or [Github](https://github.com/Yerayz) |
+| Indriana Puspita A | M172DSY2342 | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/indriana-puspita-anggraeni-35756921a/) or [Github](https://github.com/Indriana3105) |
+| Ana Surya N | M075DSY3583 | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/mwlite/in/ana-surya-ningrum-3a9822220) or [Github](https://github.com/AnaSurya01) |
 | Rayhan Naufal L | C017DSX0862 | Cloud Computing | Project Manager, DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/rayhannaufall/) or [Github](https://github.com/rayhannaufall10) |
 | Akmal Munggaran | C017DSX0916 | Cloud Computing | DevOps Engineer, UI/UX Designer, Website Developer | [LinkedIn](https://www.linkedin.com/in/akmalmunggaran/) or [Github](https://github.com/akMALE21) |
 | M. Fadhil Alhafizh | A172DSX2451 | Mobile Development | Android Mobile Developer |  |
@@ -49,8 +51,6 @@ Has several responsibility such as:
 
 Has several responsibility such as:
 
-  1. 
-
 # Tools and Resources
 
 ## Machine Learning
@@ -69,7 +69,6 @@ Has several responsibility such as:
   1. Programming Language: HTML, CSS, dan JS
 
 ## Mobile Development
-  1. 
 
 <p align="right"> C23-PR522 Teams </p>
 
